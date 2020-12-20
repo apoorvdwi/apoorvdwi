@@ -8,11 +8,15 @@
   <img align="left" alt="Apoorv's Instagram" width="22px" src="https://raw.githubusercontent.com/zenPidgin/instagram_svg/8330bc7954493d18badc36dd73b4958130edb0a0/instagram.svg" />
 </a>
 
+<a href="https://www.codechef.com/users/apoorvdwi2001">
+  <img align="left" alt="Apoorv's Codechef" width="22px" src="https://iconhelper.cn/svg/brands/codechef.svg" />
+</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=apoorvdwi.apoorvdwi)
 
 <br />
 
-Hi, I'm [Apoorv Dwivedi!](https://www.linkedin.com/in/apoorv-dwivedi-84a42a174/), sophomore at MAIT and a passionate Full Stack Web Developer 🚀 from India.
+Hi, I'm [Apoorv Dwivedi!](https://www.linkedin.com/in/apoorv-dwivedi-84a42a174/), sophomore at MAIT and a passionate Full Stack Web Developer, Competitive coder and AI, ML Enthusiast 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/apoorvdwi/apoorvdwi/blob/master/code.gif?raw=true" width="500" height="320" />
   
