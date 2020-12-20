@@ -38,7 +38,7 @@ Hi, I'm [Apoorv Dwivedi!](https://www.linkedin.com/in/apoorv-dwivedi-84a42a174/)
 
 If you like what I do, maybe consider buying me a coffee 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/apoorvdwi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/apoorvdwi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width ="150px" ></a>
 
 **📈 My GitHub Stats**
 
