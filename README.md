@@ -16,17 +16,17 @@
 
 <br />
 
-Hi, I'm [Apoorv Dwivedi!](https://apoorvdwivedi.live), sophomore at MAIT and a passionate Full Stack Web Developer, Competitive coder and AI, ML Enthusiast 🚀 from India.
+Hi, I'm [Apoorv Dwivedi!](https://apoorvdwivedi.live), penultimate year student at MAIT and a passionate Full Stack Web Developer, Competitive coder and AI, ML Enthusiast 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/apoorvdwi/apoorvdwi/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning DSA; 
+- 👨🏽‍💻 I’m currently working as SWE Intern in [Intervue](https://www.intervue.io);
+- 🌱 I’m currently learning DSA;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@apoorv_dwi2506](https://www.instagram.com/apoorv_dwi2506/);
-- 📝[@Resume](https://drive.google.com/file/d/1pteuusJnWC9WyLzM_l80P0TXwFCWbRDi/view)
+- 📝[@Resume](https://drive.google.com/file/d/1LwWLEih_UPKxjtZQmQf1zwFVpE1_1hC-/view)
 
 **Languages and Tools:**  
 
