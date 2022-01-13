@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Apoorv Dwivedi!](https://apoorvdwivedi.live), penultimate year student at MAIT and a passionate Full Stack Web Developer, Competitive coder and AI, ML Enthusiast 🚀 from India.
+Hi, I'm [Apoorv Dwivedi!](https://apoorvdwivedi.live), penultimate year student at MAIT. I am always on the lookout to learn new technologies and skills. A passionate engineering undergraduate with undying attachment to technology and a skilled Software engineer with main area of expertise in web development. 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/apoorvdwi/apoorvdwi/blob/master/code.gif?raw=true" width="500" height="320" />
   
