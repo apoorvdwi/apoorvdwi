@@ -5,11 +5,11 @@
 </a>
 
 <a href="https://www.instagram.com/apoorv_dwi2506/">
-  <img align="left" alt="Apoorv's Instagram" width="22px" src="https://raw.githubusercontent.com/zenPidgin/instagram_svg/8330bc7954493d18badc36dd73b4958130edb0a0/instagram.svg" />
+  <img align="left" alt="Apoorv's Instagram" width="22px" src="https://api.iconify.design/akar-icons/instagram-fill.svg?color=white" />
 </a>
 
-<a href="https://www.codechef.com/users/apoorvdwi2001">
-  <img align="left" alt="Apoorv's Codechef" width="22px" src="https://iconhelper.cn/svg/brands/codechef.svg" />
+<a href="https://leetcode.com/apoorvd14/">
+  <img align="left" alt="Apoorv's Leetcode" width="22px" src="https://api.iconify.design/simple-icons/leetcode.svg?color=white" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=apoorvdwi.apoorvdwi)
@@ -22,8 +22,8 @@ Hi, I'm [Apoorv Dwivedi!](https://apoorvdwivedi.live), penultimate year student 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as SWE Intern in [Intervue](https://www.intervue.io);
-- 🌱 I’m currently learning DSA;
+- 👨🏽‍💻 I’m a former SWE Intern at [Intervue](https://www.intervue.io);
+- 🌱 I’m currently learning DSA and strengthening my problem solving skils;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@apoorv_dwi2506](https://www.instagram.com/apoorv_dwi2506/);
 - 📝[@Resume](https://drive.google.com/file/d/1LwWLEih_UPKxjtZQmQf1zwFVpE1_1hC-/view)
