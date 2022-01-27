@@ -47,5 +47,9 @@ If you like what I do, maybe consider buying me a coffee 🥺👉👈
 **📈 My GitHub Stats**
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apoorvdwi&show_icons=true&theme=gotham" alt="apoorvdwi" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvdwi&layout=compact&show_icons=true&theme=gotham" alt="apoorvdwi" /></p>
+<div align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=apoorvdwi&show_icons=true&theme=gotham" alt="apoorvdwi" />  
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvdwi&layout=compact&show_icons=true&theme=gotham&hide=jupyter%20notebook" alt="apoorvdwi" />
+  <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=apoorvdwi&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-apoorvdwi" />
+</div>
 
