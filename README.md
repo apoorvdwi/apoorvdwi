@@ -25,7 +25,7 @@ Hi, I'm [Apoorv Dwivedi!](https://apoorvdwivedi.live), penultimate year student 
 - 👨🏽‍💻 I’m a former SWE Intern at [Intervue](https://www.intervue.io);
 - 🌱 I’m currently learning DSA and strengthening my problem solving skils;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@apoorv_dwi2506](https://www.instagram.com/apoorv_dwi2506/);
+- 📫 How to reach me: [apoorvdwi](https://www.linkedin.com/in/apoorvdwi/);
 - 📝[@Resume](https://drive.google.com/file/d/1LwWLEih_UPKxjtZQmQf1zwFVpE1_1hC-/view)
 
 **Languages and Tools:**  
