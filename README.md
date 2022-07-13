@@ -16,12 +16,13 @@
 
 <br />
 
-Hi, I'm [Apoorv Dwivedi!](https://apoorvdwivedi.live), penultimate year student at MAIT. I am always on the lookout to learn new technologies and skills. A passionate engineering undergraduate with undying attachment to technology and a skilled Software engineer with main area of expertise in web development. 🚀 from India.
+Hi, I'm [Apoorv Dwivedi](https://apoorvdwivedi.live), a final year student at MAIT. I am always on the lookout to learn new technologies and skills. A passionate engineering undergraduate with undying attachment to technology and a skilled Software engineer with main area of expertise in web development. 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/apoorvdwi/apoorvdwi/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
+- 🌅 MLH Fellow Summer '22 Solana Labs under [@Metaplex](https://www.metaplex.com/)
 - 👨🏽‍💻 GitHub Extern '22 [@Symbl.ai](https://symbl.ai/)
 - 👨🏽‍💻 I’m a former SWE Intern [@Intervue](https://www.intervue.io)
 - 🌱 I’m currently learning DSA and strengthening my problem solving skils
