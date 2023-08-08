@@ -1,31 +1,29 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/apoorvdwi/">
-  <img align="left" alt="Apoorv's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Apoorv's LinkedIN" width="22px" src="https://api.iconify.design/akar-icons/linkedin-fill.svg?color=white" />
 </a>
 
 <a href="https://www.instagram.com/apoorv_dwi2506/">
   <img align="left" alt="Apoorv's Instagram" width="22px" src="https://api.iconify.design/akar-icons/instagram-fill.svg?color=white" />
 </a>
 
-<a href="https://leetcode.com/apoorvd14/">
-  <img align="left" alt="Apoorv's Leetcode" width="22px" src="https://api.iconify.design/simple-icons/leetcode.svg?color=white" />
+<a href="https://twitter.com/Apoorvdwi">
+  <img align="left" alt="Apoorv's Twitter" width="22px" src="https://api.iconify.design/simple-icons/twitter.svg?color=white" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=apoorvdwi.apoorvdwi)
-
+<br />
 <br />
 
-Hi, I'm [Apoorv Dwivedi](https://apoorvdwivedi.live), a final year student at MAIT. I am always on the lookout to learn new technologies and skills. A passionate engineering undergraduate with undying attachment to technology and a skilled Software engineer with main area of expertise in web development. 🚀 from India.
+Hi, I'm [Apoorv Dwivedi](https://apoorvdwivedi.in). I'm a Software Engineer at [Skyflow](https://skyflow.com) 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/apoorvdwi/apoorvdwi/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
+- Software Engineer [@Skyflow](https://skyflow.com)
 - 🌅 MLH Fellow Summer '22 Solana Labs under [@Metaplex](https://www.metaplex.com/)
 - 👨🏽‍💻 GitHub Extern '22 [@Symbl.ai](https://symbl.ai/)
-- 👨🏽‍💻 I’m a former SWE Intern [@Intervue](https://www.intervue.io)
-- 🌱 I’m currently learning DSA and strengthening my problem solving skils
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [apoorvdwi](https://www.linkedin.com/in/apoorvdwi/)
 - 📝[@Resume](https://drive.google.com/file/d/1LwWLEih_UPKxjtZQmQf1zwFVpE1_1hC-/view)
